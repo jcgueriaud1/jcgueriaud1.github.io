@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: JC loves Vaadin
+title: 3rd party Vaadin
 email: jean-christophe@vaadin.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about Vaadin and 3rd party javascript library integration.
