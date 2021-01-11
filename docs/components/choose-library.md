@@ -29,5 +29,5 @@ Warning
 {: .label .label-red }
 Do not use library that depends on different version of your dependencies. It won't work.
 For example, you have to exclude all the Polymer 2 components. Vaadin 14 requires Polymer 3.2.
-You can't also use a component that requires Vadin-dialog 1.x if you have a component that requires Vaadin Dialog 2.x.
+You can't also use a component that requires Vaadin-dialog 1.x if you have a component that requires Vaadin Dialog 2.x.
 That's a major problem of web components.
