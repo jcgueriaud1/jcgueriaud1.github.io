@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lit element [TODO]
-permalink: /components/lit-element/
+title: Lit [TODO]
+permalink: /components/lit/
 parent: Third party integration
 nav_order: 2
 ---
