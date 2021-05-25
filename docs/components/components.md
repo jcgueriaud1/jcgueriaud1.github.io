@@ -13,4 +13,3 @@ Vaadin gives you the possibility to create a web application only with Java. Tha
 * You can use an existing web component. The [official documentation](https://vaadin.com/docs/v14/flow/web-components/integrating-a-web-component.html) is also great. But there is nothing that help you to choose the right library.
 * You can use a Javascript library and use it.
 * You can build your own component.
-
